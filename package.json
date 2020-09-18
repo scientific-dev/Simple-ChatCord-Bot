@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "enhanced.db": "^0.1.1",
     "md5": "^2.3.0",
     "superagent": "^6.1.0",
-    "discord.js": "12.3.1"
+    "discord.js": "12.3.1",
+    "chatcord": "0.0.5"
   }
 }
